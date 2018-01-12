@@ -9,3 +9,19 @@ Los primeros crean programas mediante funciones y recibe como entrada el resulta
 Fueron los imperativos los primeros lenguajes de programación que se difundieron, todavía hoy muchos lenguajes usan este principio. Otra clasificación de los lenguajes de programación distingue entre lenguajes interpretados y lenguajes compilados.
 
 Fuente: http://www.ejemplos.co/20-ejemplos-de-lenguaje-de-programacion/#ixzz53vzCGVjT
+
+Ejemplos de lenguajes de programación
+ADA 	PHP
+BASIC 	Perl
+C 	Prolog
+C++ 	ASP
+Cobol 	Action Script
+Fortran 	Python
+Java 	JAVA
+MATLAB 	Java Script, etc.
+LISP 	Assembler
+Pascal 	Logo
+
+
+
+

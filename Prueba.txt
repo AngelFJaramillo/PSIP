@@ -1,1 +1,11 @@
 Esta es una prueba de GIT
+
+Tipos de lenguaje de programación
+
+Existen diferentes clases de lenguajes de programación, como los funcionales o procedimentales, los imperativos, los lógicos, los híbridos, los orientados a objetos.
+
+Los primeros crean programas mediante funciones y recibe como entrada el resultado de otras funciones. Los segundos crean programas mediante una secuencia de comandos agrupados en bloques; las órdenes son condicionales, pues le permiten al programa volver a un bloque de comandos si se cumple cierta condición.
+
+Fueron los imperativos los primeros lenguajes de programación que se difundieron, todavía hoy muchos lenguajes usan este principio. Otra clasificación de los lenguajes de programación distingue entre lenguajes interpretados y lenguajes compilados.
+
+Fuente: http://www.ejemplos.co/20-ejemplos-de-lenguaje-de-programacion/#ixzz53vzCGVjT
